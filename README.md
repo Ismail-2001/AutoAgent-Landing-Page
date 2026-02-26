@@ -21,7 +21,7 @@
 
 ## 🚀 What Is This?
 
-This is the **official marketing landing page** for [AutoAgent](https://github.com/Ismail-2001/E-commerce-Automation-Agent) — a production-grade agentic AI platform built for Shopify and WooCommerce stores.
+This is the **official marketing landing page** for [AutoAgent](https://ecommerce-operation-agent.vercel.app/) — a production-grade agentic AI platform built for Shopify and WooCommerce stores.
 
 The page is engineered to convert — not just inform. Every section, animation, and CTA is intentional:
 
