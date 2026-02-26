@@ -200,7 +200,7 @@ AutoAgent is his answer — not another dashboard, not another integration, but 
 
 - 📧 [ismail@autoagent.ai](https://automation-portfolio-ismail.netlify.app/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/ismailsajid0617/)
-- 🐦 [Twitter / X]([https://twitter.com/ismailsajid](https://x.com/flow_comm))
+- 🐦 [Twitter / X]((https://x.com/flow_comm))
 - 💻 [GitHub](https://github.com/Ismail-2001/E-commerce-Automation-Agent)
 
 ---
