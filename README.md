@@ -199,7 +199,7 @@ This page was built to feel **premium, not promotional**:
 AutoAgent is his answer — not another dashboard, not another integration, but actual autonomous agents that make decisions and take actions.
 
 - 📧 [ismail@autoagent.ai](mailto:ismail@autoagent.ai)
-- 💼 [LinkedIn](https://linkedin.com/in/ismail-sajid)
+- 💼 [LinkedIn](https://www.linkedin.com/in/ismailsajid0617/)
 - 🐦 [Twitter / X](https://twitter.com/ismailsajid)
 - 💻 [GitHub](https://github.com/Ismail-2001/E-commerce-Automation-Agent)
 
